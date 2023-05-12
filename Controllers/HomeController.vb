@@ -21,7 +21,7 @@ Public Class HomeController
         ViewData("msg") = message ' testing purpose only
 
         ' Set VAPID variables (Read from config in Production)
-        ' You can generate VAPID here: https://tools.reactpwa.com/vapid?email=joshuapaige1982%40gmail.com
+        ' You can generate VAPID here: https://tools.reactpwa.com/vapid
 
         Dim subject As String = "mailto:joshuapaige1982@gmail.com"
         Dim publicKey As String = "BK3kj-8CTD3f2JS12_JHvq08Dq-7THHjZG1Ri2W99USD9CuoRHdpUDbk0FjwTO_lFU4BHFUKNH_nPlLtUoEtZb0"
