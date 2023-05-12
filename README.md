@@ -12,6 +12,8 @@
 
 
 ## How to test
+- Install WebPush
+https://github.com/web-push-libs/web-push-csharp
 - Create VAPID details and replace variables 
 - https://tools.reactpwa.com/vapid
 - ![image](https://github.com/joshlpaige/PushNotification/assets/56771136/f08e03d3-3010-40b8-bd34-3e12f145734b)
