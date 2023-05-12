@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PushNotification", "PushNotification.vbproj", "{1586C2C0-3DC0-466C-AC1A-90886389183A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1586C2C0-3DC0-466C-AC1A-90886389183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1586C2C0-3DC0-466C-AC1A-90886389183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1586C2C0-3DC0-466C-AC1A-90886389183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1586C2C0-3DC0-466C-AC1A-90886389183A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41AC31E9-2DE0-4AF8-92AE-5E1340598626}
+	EndGlobalSection
+EndGlobal
